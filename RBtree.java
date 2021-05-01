@@ -1,6 +1,6 @@
 package redblack;
 
-public class RBtree {
+public class RBtree <V>{
 	RBnode root;
 	
 	public RBtree(RBnode node) {
